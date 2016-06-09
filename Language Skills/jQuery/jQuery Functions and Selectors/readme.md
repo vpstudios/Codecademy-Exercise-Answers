@@ -1,11 +1,11 @@
-##1. Functions, Part I: $(document).ready
+[##1. Functions, Part I: $(document).ready] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * Functions are the basic unit of action in jQuery.
 ```script.js
 $(document).ready(function() {
     $('div').hide();    
 });
 ```
-##2. Functions, Part II: Functions Explained
+[##2. Functions, Part II: Functions Explained] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * A function is made up of three parts: the function keyword, any inputs that function takes (they go between the ()s and are separated by commas if there are more than one), and whatever actions the function should perform (these go between the {}s).
 ```script.js
 $(document).ready(function() {
@@ -33,7 +33,7 @@ $(document).ready(function() {
 });
 ```
 ##6. Selecting by Class
-* We don't have to limit ourselves to selecting HTML elements like "<p>" and "<div>;"
+* We don't have to limit ourselves to selecting HTML elements.
 ```script.js
 $(document).ready(function() {
     $('button').click(function() {
