@@ -1,11 +1,11 @@
-[##1. Functions, Part I: $(document).ready] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
+##[1. Functions, Part I: $(document).ready] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * Functions are the basic unit of action in jQuery.
 ```script.js
 $(document).ready(function() {
     $('div').hide();    
 });
 ```
-[##2. Functions, Part II: Functions Explained] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
+##[2. Functions, Part II: Functions Explained] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * A function is made up of three parts: the function keyword, any inputs that function takes (they go between the ()s and are separated by commas if there are more than one), and whatever actions the function should perform (these go between the {}s).
 ```script.js
 $(document).ready(function() {
@@ -14,7 +14,7 @@ $(document).ready(function() {
     });
 });
 ```
-##3. Variables
+##[3. Variables] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * Variables are a place for us to store information for use at a later time. Variables can hold any type of information you work with, so just think of them as containers.
 ```script.js
 $(document).ready(function() {
@@ -22,7 +22,7 @@ var $target=$('li:last-child');
 $target.fadeOut('fast');
 });
 ```
-##4. $p vs $('p')
+##[4. $p vs $('p')] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 ```script.js
 var $div = $('div');
 ```
