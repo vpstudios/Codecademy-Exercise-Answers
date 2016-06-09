@@ -1,3 +1,4 @@
+* Functions are the basic unit of action in jQuery.
 ##1. Functions, Part I: $(document).ready
 ```script.js
 $(document).ready(function() {
