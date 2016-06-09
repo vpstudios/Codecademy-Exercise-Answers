@@ -1,15 +1,6 @@
-##Ruby
+##Language Skills
 
-Learn to program in Ruby, a ﬂexible language used to create sites like Codecademy.
-
-Unit 1: Introduction to Ruby, an object-oriented scripting language you can use on its own or as part of the Ruby on Rails web framework.
-* Lesson: Putting the Form in Formatter, a small program that will format a user's input.
-
-
-Unit 2: Control Flow in Ruby, write more complex programs that can respond to user input.
-* Lesson: Thith Meanth War! Using control flow, we can modify a user's input and return it to them. In this project, we'll make them sound like Daffy Duck!
-
-
+Learn core programming concepts and syntax for the world's most popular languages.
 
 
 
