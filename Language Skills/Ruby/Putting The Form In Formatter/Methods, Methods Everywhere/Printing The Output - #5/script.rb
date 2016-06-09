@@ -9,10 +9,13 @@ last_name.capitalize!
 print "What city are you from?"
  city = gets.chomp
  city.capitalize!
- 
- print "Enter the abbreviation of your state or province please."
+  
+print "Enter the abbreviation of your state or province please."
  state = gets.chomp
  state.capitalize!
  
- puts "Your name is #{first_name} #{last_name} from #{city}, #{state}!"
+print "What country are you from?"
+ country = gets.chomp
+ country.capitalize!
  
+ puts "My name is #{first_name} #{last_name}, I leave in #{city} localised in state of #{state} in #{country}."
