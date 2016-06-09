@@ -33,7 +33,7 @@ $(document).ready(function() {
 });
 ```
 ##6. Selecting by Class
-* We don't have to limit ourselves to selecting HTML elements like <p> and <div>;
+* We don't have to limit ourselves to selecting HTML elements like "<p>" and "<div>;"
 ```script.js
 $(document).ready(function() {
     $('button').click(function() {
