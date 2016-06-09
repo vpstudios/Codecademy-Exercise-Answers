@@ -70,13 +70,13 @@ If you found a mistake, or want improvemenents are needed feel free to submit [*
 
 ## Credits
 
-Big thanks to all contributors.
+Big thanks to Psylo from VPStudios.xyz, and to all contributors.
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2014 - 2016 VPStudios.xyz
+Copyright (c) 1997 - 2016 VPStudios.xyz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
