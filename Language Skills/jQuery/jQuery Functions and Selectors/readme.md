@@ -1,5 +1,5 @@
-* Functions are the basic unit of action in jQuery.
 ##1. Functions, Part I: $(document).ready
+* Functions are the basic unit of action in jQuery.
 ```script.js
 $(document).ready(function() {
     $('div').hide();    
