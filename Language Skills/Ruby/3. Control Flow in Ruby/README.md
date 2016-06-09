@@ -4,6 +4,7 @@ You may have noticed that the kinds of programs we've written so far in Ruby are
 
 Control flow gives us the flexibility we're looking for. We can select different outcomes depending on information the user types, the result of a computation, or the value returned by another part of the program.
 
+* [How It Works] (https://github.com/vpstudios/Codecademy-Exercise-Answers/tree/master/Language%20Skills/Ruby/3.%20Control%20Flow%20in%20Ruby/Introduction%20to%20Control%20Flow/1.%20How%20it%20works)
 
 
 
