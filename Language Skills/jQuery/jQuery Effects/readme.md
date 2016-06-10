@@ -53,14 +53,14 @@ $(document).ready(function() {
 });
 ```
 ##[8. One Resize Fits All] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Effects/script.js)
-* You didn't love our mega sweet car? We slaved over that for months! Back to regular <div>s for you!
+* You didn't love our mega sweet car? We slaved over that for months! Back to regular div's for you!
 ```script.js
 $(document).ready(function() {
     $('div').resizable();
 });
 ```
 ##[9. A Greater Selection] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Effects/script.js)
-* Images and <div>s aren't the only elements we can target with jQuery UI—we can also enhance our ordered and unordered lists.
+* Images and div's aren't the only elements we can target with jQuery UI—we can also enhance our ordered and unordered lists.
 ```script.js
 $(document).ready(function() {
     $('ol').selectable();
