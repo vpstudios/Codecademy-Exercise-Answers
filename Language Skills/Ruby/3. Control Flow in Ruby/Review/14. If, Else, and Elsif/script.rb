@@ -1,21 +1,7 @@
-# If
-if 1 < 3
-	puts "I'm getting printed because one is less than three!"
-else 
-	puts "That means I'll get printed!"
-end
-
-# Else
-if 1 > 2
-  print "I won't get printed because one is less than two."
-else
-  print "That means I'll get printed!"
-end
-
-# Elseif
+# If, Else, and Elsif
 # Define variables x and y
-x = 1
-y = 3
+x = 5
+y = 8
 
 # Elseif statement
 if x < y  # Assumes x and y are defined

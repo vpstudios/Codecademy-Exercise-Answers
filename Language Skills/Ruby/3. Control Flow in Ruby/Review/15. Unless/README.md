@@ -1,6 +1,6 @@
-##Unless
+##[Unless] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/Ruby/3.%20Control%20Flow%20in%20Ruby/Review/15.%20Unless/script.rb)
 
-Sometimes you want to use control flow to check if something is false, rather than if it's true. You could reverse your if/else, but Ruby will do you one better: it will let you use an unless statement.
+Remember, this is basically a short hand if statement. It will do whatever you ask unless the condition is true. In our example, problem is false, so we don't have a problem. We print Good to go!
 
 
 
