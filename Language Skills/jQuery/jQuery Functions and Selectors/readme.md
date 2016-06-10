@@ -26,13 +26,13 @@ $target.fadeOut('fast');
 ```script.js
 var $div = $('div');
 ```
-##5. Using Functions to Select HTML Elements
+##[5. Using Functions to Select HTML Elements] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 ```script.js
 $(document).ready(function() {
     $('div').fadeIn('slow');
 });
 ```
-##6. Selecting by Class
+##[6. Selecting by Class] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * We don't have to limit ourselves to selecting HTML elements.
 ```script.js
 $(document).ready(function() {
@@ -41,7 +41,7 @@ $(document).ready(function() {
     });
 });
 ```
-##7. Selecting by ID
+##[7. Selecting by ID] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * If we can select by class, it follows that we can also select by ID.
 ```script.js
 $(document).ready(function() {
@@ -50,14 +50,14 @@ $(document).ready(function() {
     });
 });
 ```
-##8. Flexible Selections
+##[8. Flexible Selections] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * Anything you can target with CSS, you can modify with jQuery.
 ```script.js
 $(document).ready(function() {
     $('.pink, .red').fadeTo('slow',0);    
 });
 ```
-##9. 'this' is important!
+##[9. 'this' is important!] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 ```script.js
 $(document).ready(function() {
     $('div').click(function() {
@@ -65,21 +65,21 @@ $(document).ready(function() {
     });
 });
 ```
-##10. Ready?
+##[10. Ready?] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * All right! Time to use our new jQuery knowledge to add another interactive component to our website: a sliding panel that moves up and down when clicked.
 ```script.js
 $(document).ready(function() {
     $(this).click();    
 });
 ```
-##11. Click and Pull
+##[11. Click and Pull] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * Good! Now we want to trigger an event when the "Slide Up/Down" tab is clicked (that tab's class is .pull-me).
 ```script.js
 $(document).ready(function() {
     $('.pull-me').click();    
 });
 ```
-##12. Toggling Our Panel
+##[12. Toggling Our Panel] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * Perfect! Just one more step: we need to tell .click() what to do. In this case, when our pull tab is clicked, we want our sliding panel (with the class .panel) to open or close.
 ```script.js
 $(document).ready(function() {
@@ -88,7 +88,7 @@ $(document).ready(function() {
     });    
 });
 ```
-##13. Well Done!
+##[13. Well Done!] (https://github.com/vpstudios/Codecademy-Exercise-Answers/blob/master/Language%20Skills/jQuery/jQuery%20Functions%20and%20Selectors/script.js)
 * Great work! See how easy this is? With a little jQuery magic, you can make your websites do all kinds of amazing things.
 ```script.js
 $(document).ready(function() {
